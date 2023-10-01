@@ -1,0 +1,7 @@
+#!/bin/bash
+cd /home/...../github/websiteRepository && git pull
+cd /home/...../github/css && git pull
+cd /home/...../github/html && git pull
+cd /home/...../github/py && git pull
+cd /home/...../github/crontab && git pull
+cd /home/...../github/sh && git pull
